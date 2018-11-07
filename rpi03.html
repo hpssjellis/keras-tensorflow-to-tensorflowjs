@@ -1,6 +1,6 @@
 
 <!-- ***************************    Following are all the scripts *********************************** -->
-<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.12.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.13.2"></script>
 
 <script>
 
@@ -22,7 +22,7 @@
       model = await tf.loadModel(myFileName);
       document.getElementById('myDivSummary').innerHTML = '' 
       await model.summary(null,null,x => {document.getElementById('myDivSummary').innerHTML += x + '<br>'});
-      await myTest()
+     // await myTest()
   }                                                                          
 }
 
