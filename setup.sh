@@ -148,7 +148,13 @@ echo "Now intall tensorFlow into the enviroment"
 
 
 #version 1.0.1 Feb 2017
-sudo pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.1-cp27-none-linux_x86_64.whl
+#sudo pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.1-cp27-none-linux_x86_64.whl
+
+
+# version 1.11.0 nov 2018
+sudo pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.11.0-cp27-none-linux_x86_64.whl
+
+
 
 
 
