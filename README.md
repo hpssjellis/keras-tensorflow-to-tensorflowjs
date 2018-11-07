@@ -6,6 +6,10 @@ https://hpssjellis.github.io/keras-tensorflow-to-tensorflowjs/example/model.json
 
 
 
+https://hpssjellis.github.io/keras-tensorflow-to-tensorflowjs/example/group1-shard1of1.bin
+
+
+
 run the setup.sh
 
 then run kera01.sh 
