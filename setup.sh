@@ -277,7 +277,7 @@ echo ". "
 
 pip install --upgrade ipython
 pip install --upgrade jupyter
-
+pip install tensorflowjs
 
 
 
