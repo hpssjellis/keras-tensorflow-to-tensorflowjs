@@ -10,6 +10,16 @@ https://hpssjellis.github.io/keras-tensorflow-to-tensorflowjs/example/group1-sha
 
 
 
+
+https://hpssjellis.github.io/keras-tensorflow-to-tensorflowjs/rpi03.html
+
+
+
+https://hpssjellis.github.io/keras-tensorflow-to-tensorflowjs/x6-view-weights.html
+
+
+
+
 run the setup.sh
 
 then run kera01.sh 
