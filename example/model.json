@@ -1,1 +1,57 @@
-{"modelTopology": null, "weightsManifest": [{"paths": ["group1-shard1of1"], "weights": [{"dtype": "float32", "shape": [8, 12], "name": "dense_1/kernel"}, {"dtype": "float32", "shape": [12], "name": "dense_1/bias"}, {"dtype": "float32", "shape": [12, 8], "name": "dense_2/kernel"}, {"dtype": "float32", "shape": [8], "name": "dense_2/bias"}, {"dtype": "float32", "shape": [8, 1], "name": "dense_3/kernel"}, {"dtype": "float32", "shape": [1], "name": "dense_3/bias"}]}]}
+{
+  "modelTopology": null,
+  "weightsManifest": [
+    {
+      "paths": [
+        "group1-shard1of1"
+      ],
+      "weights": [
+        {
+          "dtype": "float32",
+          "shape": [
+            8,
+            12
+          ],
+          "name": "dense_1/kernel"
+        },
+        {
+          "dtype": "float32",
+          "shape": [
+            12
+          ],
+          "name": "dense_1/bias"
+        },
+        {
+          "dtype": "float32",
+          "shape": [
+            12,
+            8
+          ],
+          "name": "dense_2/kernel"
+        },
+        {
+          "dtype": "float32",
+          "shape": [
+            8
+          ],
+          "name": "dense_2/bias"
+        },
+        {
+          "dtype": "float32",
+          "shape": [
+            8,
+            1
+          ],
+          "name": "dense_3/kernel"
+        },
+        {
+          "dtype": "float32",
+          "shape": [
+            1
+          ],
+          "name": "dense_3/bias"
+        }
+      ]
+    }
+  ]
+}
